@@ -42,9 +42,9 @@ I am a seasoned Frontend Developer with **8-10 years of experience** building sc
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthakworks&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Sarthak's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sarthakworks&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Sarthak's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakworks&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sarthakworks&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 
